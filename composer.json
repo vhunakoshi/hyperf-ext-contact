@@ -1,5 +1,5 @@
 {
-    "name": "hyperf-ext/contract",
+    "name": "vhunakoshi/hyperf-ext-contract",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -9,8 +9,8 @@
     "description": "The contracts of HyperfExt.",
     "authors": [
         {
-            "name": "Eric Zhu",
-            "email": "eric@zhu.email"
+            "name": "Taufiq Vhunakoshi",
+            "email": "vhunakoshi@email.com"
         }
     ],
     "autoload": {
@@ -19,10 +19,10 @@
         }
     },
     "require": {
-        "php": ">=7.3"
+        "php": ">=8.0"
     },
     "require-dev": {
-        "friendsofphp/php-cs-fixer": "^3.0"
+        "friendsofphp/php-cs-fixer": "^3.75"
     },
     "config": {
         "sort-packages": true
